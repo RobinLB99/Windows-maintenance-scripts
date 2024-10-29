@@ -1,0 +1,1 @@
+sudo powershell -ExecutionPolicy Bypass -File "%WINMAN%\limpiar_temporales.ps1"

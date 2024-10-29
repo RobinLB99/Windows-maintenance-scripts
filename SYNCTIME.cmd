@@ -1,0 +1,1 @@
+sudo powershell -ExecutionPolicy Bypass -File "E:\Mas cosas\Windows\Comandos Ejecutables\sincronizar_tiempo.ps1"
