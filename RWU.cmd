@@ -1,1 +1,1 @@
-sudo powershell -ExecutionPolicy Bypass -File "E:\Mas cosas\Windows\Comandos Ejecutables\restore_windows_update.ps1"
+sudo powershell -ExecutionPolicy Bypass -File "%WINMAN%\restore_windows_update.ps1"
